@@ -1,6 +1,6 @@
 Aplicativo RestCountries
 
-Este é um projeto de aplicativo Android desenvolvido em Kotlin para a disciplina de Desenvolvimento Mobile do professor Bruno. O app consome dados de uma API pública para listar e mostrar detalhes sobre os países do mundo.
+Este é um projeto de aplicativo Android desenvolvido em Kotlin para a disciplina de Desenvolvimento Mobile. O app consome dados de uma API pública para listar e mostrar detalhes sobre os países do mundo.
 
 O que foi usado no projeto:
 - Interface: Jetpack Compose para criar as telas.
